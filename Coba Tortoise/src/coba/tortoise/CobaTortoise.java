@@ -17,6 +17,7 @@ public class CobaTortoise {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Coba Compile");
+        System.out.println("Ini aja")
     }
     
 }
